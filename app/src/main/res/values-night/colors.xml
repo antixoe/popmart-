@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chip_bg">#1D2E45</color>
+    <color name="chip_text">#BCD7FF</color>
+    <color name="item_card_stroke">#2A3945</color>
+    <color name="muted_text">#9FA9B2</color>
+</resources>

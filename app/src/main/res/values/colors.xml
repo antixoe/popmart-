@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_light_primary">#0E7C86</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#B7ECF0</color>
+    <color name="md_theme_light_onPrimaryContainer">#002022</color>
+    <color name="md_theme_light_secondary">#A44A1A</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_background">#F7FAFC</color>
+    <color name="md_theme_light_onBackground">#101417</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#101417</color>
+
+    <color name="md_theme_dark_primary">#78D4DE</color>
+    <color name="md_theme_dark_onPrimary">#00363B</color>
+    <color name="md_theme_dark_primaryContainer">#004F56</color>
+    <color name="md_theme_dark_onPrimaryContainer">#B7ECF0</color>
+    <color name="md_theme_dark_secondary">#FFB78E</color>
+    <color name="md_theme_dark_onSecondary">#5A1E00</color>
+    <color name="md_theme_dark_background">#0C1114</color>
+    <color name="md_theme_dark_onBackground">#E3E9ED</color>
+    <color name="md_theme_dark_surface">#11181C</color>
+    <color name="md_theme_dark_onSurface">#E3E9ED</color>
+
+    <color name="summary_card_start">#E7F6F9</color>
+    <color name="summary_card_end">#FCEEDF</color>
+    <color name="summary_card_start_dark">#143238</color>
+    <color name="summary_card_end_dark">#38281C</color>
+    <color name="chip_bg">#EAF2FF</color>
+    <color name="chip_text">#20457A</color>
+    <color name="chip_bg_dark">#1D2E45</color>
+    <color name="chip_text_dark">#BCD7FF</color>
+    <color name="item_card_stroke">#D6E0E8</color>
+    <color name="item_card_stroke_dark">#2A3945</color>
+    <color name="muted_text">#5B6670</color>
+    <color name="muted_text_dark">#9FA9B2</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

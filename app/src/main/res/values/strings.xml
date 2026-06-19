@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Popmart Collection Manager</string>
+    <string name="collection_dashboard">Collection Dashboard</string>
+    <string name="dashboard_subtitle">Track rarity, quantity, and value across your shelf.</string>
+    <string name="summary_title">Today\'s Snapshot</string>
+    <string name="summary_unique_placeholder">Unique items: 0</string>
+    <string name="summary_quantity_placeholder">Total quantity: 0</string>
+    <string name="summary_value_placeholder">Total value: $0.00</string>
+    <string name="summary_unique">Unique items: %1$d</string>
+    <string name="summary_quantity">Total quantity: %1$d</string>
+    <string name="summary_value">Total value: %1$s</string>
+    <string name="previous_page">Previous</string>
+    <string name="next_page">Next</string>
+    <string name="page_indicator_placeholder">Page 1 of 1</string>
+    <string name="page_indicator">Page %1$d of %2$d</string>
+    <string name="empty_state">No Popmart items yet. Tap + to add your first collection item.</string>
+    <string name="add_collection">Add Collection Item</string>
+    <string name="add_item_title">Add Popmart Item</string>
+    <string name="edit_item_title">Edit Popmart Item</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_title">Delete Item</string>
+    <string name="delete_message">Are you sure you want to remove this item from your collection?</string>
+    <string name="required_fields_message">Please complete all required fields with valid values.</string>
+    <string name="label_name">Name</string>
+    <string name="label_series">Series</string>
+    <string name="label_rarity">Rarity</string>
+    <string name="label_date_acquired">Date Acquired (YYYY-MM-DD)</string>
+    <string name="label_quantity">Quantity</string>
+    <string name="label_unit_price">Unit Price</string>
+    <string name="label_notes">Notes (Optional)</string>
+    <string name="series_format">Series: %1$s</string>
+    <string name="rarity_format">Rarity: %1$s</string>
+    <string name="date_format">Acquired: %1$s</string>
+    <string name="quantity_format">Quantity: %1$d</string>
+    <string name="unit_price_format">Unit Price: %1$s</string>
+    <string name="notes_format">Notes: %1$s</string>
+    <string name="notes_empty">-</string>
+    <string name="reset_dummy_data">Reset Dummy Data</string>
+    <string name="reset_dummy_title">Reset Collection</string>
+    <string name="reset_dummy_message">Replace current collection with dummy sample data?</string>
+    <string name="reset_dummy_confirm">Reset</string>
+    <string name="reset_dummy_done">Dummy data restored.</string>
+    <string name="view_report">View Report</string>
+    <string name="report_title">Collection Report</string>
+    <string name="report_subtitle">Overview and breakdown of your current collection.</string>
+    <string name="report_total_unique">Unique Items: %1$d</string>
+    <string name="report_total_quantity">Total Quantity: %1$d</string>
+    <string name="report_total_value">Total Value: %1$s</string>
+    <string name="report_avg_price">Average Unit Price: %1$s</string>
+    <string name="report_series_count">Series Count: %1$d</string>
+    <string name="report_top_rarity">Most Common Rarity: %1$s</string>
+    <string name="report_latest_acquired">Latest Acquired: %1$s</string>
+    <string name="report_no_data">No data yet</string>
+    <string name="report_breakdown_title">Rarity Breakdown</string>
+    <string name="report_breakdown_line">%1$s: %2$d</string>
+    <string name="report_empty_breakdown">No items to summarize.</string>
+    <string name="report_back">Back</string>
+    <string name="logout">Logout</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to access your collection.</string>
+    <string name="login_username">Username or Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_required_fields">Please enter username and password.</string>
+    <string name="export_report">Export CSV</string>
+    <string name="export_success">Report exported to downloads folder.</string>
+    <string name="export_failed">Failed to export report.</string>
+
+    <string name="manage_users">Manage Users</string>
+    <string name="add_user">Add User</string>
+    <string name="edit_user">Edit User</string>
+    <string name="delete_user_title">Delete User</string>
+    <string name="delete_user_message">Are you sure you want to delete user %1$s?</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="role">Role</string>
+
+    <string-array name="rarity_options">
+        <item>Common</item>
+        <item>Uncommon</item>
+        <item>Rare</item>
+        <item>Secret</item>
+    </string-array>
+    
+    <string-array name="role_options">
+        <item>Admin</item>
+        <item>Collector</item>
+    </string-array>
+</resources>
